@@ -1,0 +1,14 @@
+D:\C# PROJECTS\polymorphisam\polymorphisam\bin\Debug\net8.0\polymorphisam.exe
+D:\C# PROJECTS\polymorphisam\polymorphisam\bin\Debug\net8.0\polymorphisam.deps.json
+D:\C# PROJECTS\polymorphisam\polymorphisam\bin\Debug\net8.0\polymorphisam.runtimeconfig.json
+D:\C# PROJECTS\polymorphisam\polymorphisam\bin\Debug\net8.0\polymorphisam.dll
+D:\C# PROJECTS\polymorphisam\polymorphisam\bin\Debug\net8.0\polymorphisam.pdb
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\polymorphisam.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\polymorphisam.AssemblyInfoInputs.cache
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\polymorphisam.AssemblyInfo.cs
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\polymorphisam.csproj.CoreCompileInputs.cache
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\polymorphisam.dll
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\refint\polymorphisam.dll
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\polymorphisam.pdb
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\polymorphisam.genruntimeconfig.cache
+D:\C# PROJECTS\polymorphisam\polymorphisam\obj\Debug\net8.0\ref\polymorphisam.dll
